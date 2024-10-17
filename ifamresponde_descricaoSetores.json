@@ -103,18 +103,5 @@
       "resposta": "Um protocolo é um registro formal de documentos ou processos, e sua importância está em garantir a rastreabilidade e organização das informações dentro da instituição."
     }
      ]
-  },
-  {
-    "id": "9",
-    "icon": "account-heart",
-    "nome": "CAPNE",
-    "descricao": "Descrição do CAPNE",
-    "conteudo": "Conteúdo do CAPNE",
-     "duvidas": [
-    {
-      "pergunta": "Pergunta 1",
-      "resposta": "Resposta 1"
-    }
-     ]
   }
 ]
