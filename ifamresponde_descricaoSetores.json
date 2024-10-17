@@ -1,6 +1,8 @@
 [
   { 
+    "id": "1",
     "nome": "Diretoria",
+    "icon": "office-building",
     "descricao": "O setor de Diretoria é responsável pela gestão estratégica da organização, tomando decisões importantes que afetam a missão, visão e valores da instituição. Este setor supervisiona todos os outros departamentos e garante que todos os processos estejam alinhados com os objetivos de longo prazo.",
     "conteudo": "Conteúdo da  Diretoria",
      "duvidas": [
@@ -12,6 +14,8 @@
     
   },
    {
+    "id": "2",
+    "icon": "account-group",
     "nome": "DEPP",
     "descricao": "Descrição do DEPP",
     "conteudo": "Conteúdo do DEPP",
@@ -23,6 +27,8 @@
       ]
   },
     {
+    "id": "3",
+    "icon": "account-tie",
     "nome": "CAE",
     "descricao": "Descrição do CAE",
     "conteudo": "Conteúdo do CAE",
@@ -34,6 +40,8 @@
       ]
     },
   {
+    "id": "4",
+    "icon": "calendar-check",
     "nome": "CRA",
     "descricao": "Descrição do CRA",
     "conteudo": "Conteúdo do CRA",
@@ -45,6 +53,8 @@
      ]
     },
   {
+    "id": "5",
+    "icon": "file-document",
     "nome": "SECRETARIA",
     "descricao": "A Secretaria é o setor responsável pela organização administrativa e logística da empresa, incluindo o gerenciamento de documentos, correspondências, agendamentos e outras atividades diárias.",
     "conteudo": "Conteúdo do SECRETARIA",
@@ -56,6 +66,8 @@
      ]
   },
   {
+    "id": "6",
+    "icon": "account-network",
     "nome": "CGE",
     "descricao": "Descrição do CGE",
     "conteudo": "Conteúdo do CGE",
@@ -67,6 +79,8 @@
      ]
   },
    {
+    "id": "7",
+    "icon": "briefcase",
     "nome": "ESTÁGIO",
     "descricao": "O setor de Estágio tem como objetivo proporcionar a integração de estudantes no mercado de trabalho, oferecendo experiências práticas em diversas áreas da organização, além de promover o desenvolvimento profissional e acadêmico dos estagiários.",
     "conteudo": "Conteúdo do ESTÁGIO",
@@ -78,6 +92,8 @@
      ]
   },
   {
+    "id": "8",
+    "icon": "file-document",
     "nome": "PROTOCOLO",
     "descricao": "O setor de Protocolo é responsável por registrar, organizar e acompanhar todos os documentos oficiais e correspondências recebidas e enviadas pela organização. Ele garante que todas as comunicações e processos sejam feitos de acordo com as normas e procedimentos estabelecidos.",
     "conteudo": "Conteúdo do PROTOCOLO",
@@ -89,6 +105,8 @@
      ]
   },
   {
+    "id": "9",
+    "icon": "account-heart",
     "nome": "CAPNE",
     "descricao": "Descrição do CAPNE",
     "conteudo": "Conteúdo do CAPNE",
