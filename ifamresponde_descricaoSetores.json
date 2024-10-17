@@ -1,0 +1,102 @@
+[
+  { 
+    "titulo": "Diretoria",
+    "descricao": "O setor de Diretoria é responsável pela gestão estratégica da organização, tomando decisões importantes que afetam a missão, visão e valores da instituição. Este setor supervisiona todos os outros departamentos e garante que todos os processos estejam alinhados com os objetivos de longo prazo.",
+    "conteudo": "Conteúdo da  Diretoria",
+     "duvidas": [
+    {
+      "pergunta": "Qual é o papel da diretoria na organização?",
+      "resposta": "A diretoria toma decisões estratégicas, lidera a organização e é responsável pelo planejamento e execução de metas de longo prazo."
+    }
+     ]
+    
+  },
+   {
+    "titulo": "DEPP",
+    "descricao": "Descrição do DEPP",
+    "conteudo": "Conteúdo do DEPP",
+    "duvidas": [
+    {
+      "pergunta": "Pergunta n1",
+      "resposta": "Resposta para  pn1"
+    }
+      ]
+  },
+    {
+    "titulo": "CAE",
+    "descricao": "Descrição do CAE",
+    "conteudo": "Conteúdo do CAE",
+    "duvidas": [
+    {
+      "pergunta": "Pergunta n1",
+      "resposta": "Resposta para  pn1"
+    }
+      ]
+    },
+  {
+    "titulo": "CRA",
+    "descricao": "Descrição do CRA",
+    "conteudo": "Conteúdo do CRA",
+     "duvidas": [
+    {
+      "pergunta": "Pergunta 1m ",
+      "resposta": "Resposta 1mk"
+    }
+     ]
+    },
+  {
+    "titulo": "SECRETARIA",
+    "descricao": "A Secretaria é o setor responsável pela organização administrativa e logística da empresa, incluindo o gerenciamento de documentos, correspondências, agendamentos e outras atividades diárias.",
+    "conteudo": "Conteúdo do SECRETARIA",
+     "duvidas": [
+    {
+      "pergunta": "Quais são as funções principais da Secretaria",
+      "resposta": "A Secretaria é responsável pela gestão de documentos, agendamento de compromissos, organização de reuniões e coordenação da comunicação interna."
+    }
+     ]
+  },
+  {
+    "titulo": "CGE",
+    "descricao": "Descrição do CGE",
+    "conteudo": "Conteúdo do CGE",
+     "duvidas": [
+    {
+      "pergunta": "Pergunta 1",
+      "resposta": "Resposta 1"
+    }
+     ]
+  },
+   {
+    "titulo": "ESTÁGIO",
+    "descricao": "O setor de Estágio tem como objetivo proporcionar a integração de estudantes no mercado de trabalho, oferecendo experiências práticas em diversas áreas da organização, além de promover o desenvolvimento profissional e acadêmico dos estagiários.",
+    "conteudo": "Conteúdo do ESTÁGIO",
+     "duvidas": [
+    {
+      "pergunta": "Qual é o objetivo do setor de Estágio?",
+      "resposta": "O objetivo do setor de Estágio é proporcionar experiências práticas para os estudantes, contribuindo para seu desenvolvimento profissional e acadêmico."
+    }
+     ]
+  },
+  {
+    "titulo": "PROTOCOLO",
+    "descricao": "O setor de Protocolo é responsável por registrar, organizar e acompanhar todos os documentos oficiais e correspondências recebidas e enviadas pela organização. Ele garante que todas as comunicações e processos sejam feitos de acordo com as normas e procedimentos estabelecidos.",
+    "conteudo": "Conteúdo do PROTOCOLO",
+     "duvidas": [
+    {
+      "pergunta": "O que é um protocolo e qual a sua importância?",
+      "resposta": "Um protocolo é um registro formal de documentos ou processos, e sua importância está em garantir a rastreabilidade e organização das informações dentro da instituição."
+    }
+     ]
+  },
+  {
+    "titulo": "CAPNE",
+    "descricao": "Descrição do CAPNE",
+    "conteudo": "Conteúdo do CAPNE",
+     "duvidas": [
+    {
+      "pergunta": "Pergunta 1",
+      "resposta": "Resposta 1"
+    }
+     ]
+  }
+]
